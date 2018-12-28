@@ -1,5 +1,5 @@
 # in-memorykeyvalue
-test project of interview request.
+
 This demo application is coded with extra feature in the debug mode, 
 like displaying all entries in the key-value database by choosing get and pushing enter twice 
 and put will allow multiple entries without having to type put with each entry.
